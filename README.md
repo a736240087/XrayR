@@ -17,7 +17,7 @@ A Xray backend framework that can easily support many panels.
 
 如果您喜欢本项目，可以右上角点个star+watch，持续关注本项目的进展。
 
-使用教程：[详细使用教程](https://xrayr-project.github.io/XrayR-doc/)
+使用教程：[详细使用教程](https://bbs.hzcvk.tk/)
 
 
 ## 免责声明
@@ -70,20 +70,12 @@ A Xray backend framework that can easily support many panels.
 ### 一键安装
 
 ```
-wget -N https://raw.githubusercontent.com/XrayR-project/XrayR-release/master/install.sh && bash install.sh
+wget -N https://raw.githubusercontent.com/a736240087/XrayR-release/main/install.sh && bash install.sh
 ```
-
-### 使用Docker部署软件
-
-[Docker部署教程](https://xrayr-project.github.io/XrayR-doc/xrayr-xia-zai-he-an-zhuang/install/docker)
-
-### 手动安装
-
-[手动安装教程](https://xrayr-project.github.io/XrayR-doc/xrayr-xia-zai-he-an-zhuang/install/manual)
 
 ## 配置文件及详细使用教程
 
-[详细使用教程](https://xrayr-project.github.io/XrayR-doc/)
+[详细使用教程](https://bbs.hzcvk.tk/)
 
 ## Thanks
 
